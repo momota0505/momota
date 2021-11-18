@@ -82,7 +82,7 @@ main{
     position: relative;
     max-width: 100%;
     height:100vh;
-    background: url("https://momota0505.github.io/momota/img/honki_FV.jpg")center center/cover no-repeat ;
+    background: url("img/honki_FV.jpg")center center/cover no-repeat ;
     z-index: 500;
     
 }
@@ -204,7 +204,7 @@ button{
 }
 
 .nav-toggle:checked ~ .btn-burger{
-    background: url("../img/toggle_close.svg") center center / cover no-repeat;
+    background: url("img/toggle_close.svg") center center / cover no-repeat;
 }
 
 /* ナビゲーション */
