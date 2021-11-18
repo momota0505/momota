@@ -281,7 +281,7 @@ button{
 /* １ページ目 */
 
 .page-1{
-    background: url(../img/page-1.jpg) center center / cover no-repeat;
+    background: url(img/page-1.jpg) center center / cover no-repeat;
     
     position: relative;
     z-index: 100;
@@ -337,7 +337,7 @@ hr{
 /* ２ページ目 */
 
 .page-2{
-    background: url("../img/page-2.jpg") center center / cover no-repeat;
+    background: url("img/page-2.jpg") center center / cover no-repeat;
    position: relative;
    z-index: 2;
 }
@@ -441,7 +441,7 @@ hr{
     display: block;
     width: 4vw;
     height: 4vw;
-    background: url("../img/closebtn_black.svg") center center / cover no-repeat;
+    background: url("img/closebtn_black.svg") center center / cover no-repeat;
     position: absolute;
     right: 2vw;
     top: 2vw;
@@ -506,7 +506,7 @@ hr{
 /* 3ページ目 */
 
 .page-3{
-    background: url("../img/page-3.jpg") center center / cover no-repeat;
+    background: url("img/page-3.jpg") center center / cover no-repeat;
     position: relative;
     z-index: 500;
 }
@@ -619,7 +619,7 @@ hr{
 /* フッター */
 
 footer{
-    background: url('../img/footer-background.jpg') center center / cover no-repeat;
+    background: url('img/footer-background.jpg') center center / cover no-repeat;
     padding: 3vh 3vh 1vh;
     position: relative;
     z-index: 100;
@@ -812,7 +812,7 @@ footer{
         position: relative;
         max-width: 100%;
         height:95vh;
-        background: url("../img/honki_FV.jpg")center center/cover no-repeat ;
+        background: url("img/honki_FV.jpg")center center/cover no-repeat ;
         z-index: 500;
         
     }
@@ -905,12 +905,12 @@ footer{
         display: block;
         width: 40px;
         height: 40px;
-        background: url("../img/toggle_open.svg") center center /cover no-repeat;
+        background: url("img/toggle_open.svg") center center /cover no-repeat;
         cursor: pointer;
     }
     
     .nav-toggle:checked ~ .btn-burger{
-        background: url("../img/toggle_close.svg") center center / cover no-repeat;
+        background: url("img/toggle_close.svg") center center / cover no-repeat;
     }
     
     /* ナビゲーション */
@@ -983,7 +983,7 @@ footer{
     /* １ページ目 */
     
     .page-1{
-        background: url(../img/page-1.jpg) center center / cover no-repeat;
+        background: url(img/page-1.jpg) center center / cover no-repeat;
         
         position: relative;
         z-index: 100;
@@ -1013,12 +1013,12 @@ footer{
         line-height: 1;
         width: 50%;
         float: right;
-        /* background: url(../img/MEMBER_ins.png) center center / contain no-repeat; */
+        /* background: url(img/MEMBER_ins.png) center center / contain no-repeat; */
         border: none;
     }
 
     .member-ttil{
-        background: url(../img/MEMBER_ins.png) center center / contain no-repeat;
+        background: url(img/MEMBER_ins.png) center center / contain no-repeat;
         width: 50%;
         height: 90vw;
         position: absolute;
@@ -1097,7 +1097,7 @@ footer{
     /* ２ページ目 */
     
     .page-2{
-        background: url("../img/page-2.jpg") center center / cover no-repeat;
+        background: url("img/page-2.jpg") center center / cover no-repeat;
        position: relative;
        z-index: 2;
     }
@@ -1211,7 +1211,7 @@ footer{
         display: block;
         width: 4vw;
         height: 4vw;
-        background: url("../img/closebtn_black.svg") center center / cover no-repeat;
+        background: url("img/closebtn_black.svg") center center / cover no-repeat;
         position: absolute;
         right: 2vw;
         top: 2vw;
@@ -1276,7 +1276,7 @@ footer{
     /* 3ページ目 */
     
     .page-3{
-        background: url("../img/page-3.jpg") center center / cover no-repeat;
+        background: url("img/page-3.jpg") center center / cover no-repeat;
         position: relative;
         z-index: 500;
     }
@@ -1398,7 +1398,7 @@ footer{
     /* フッター */
     
     footer{
-        background: url('../img/footer-background.jpg') center center / cover no-repeat;
+        background: url('img/footer-background.jpg') center center / cover no-repeat;
         padding: 3vh 3vh 1vh;
         position: relative;
         z-index: 100;
